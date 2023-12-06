@@ -2,7 +2,7 @@
 
 # Description
 
-This repository contains the terraform definitions required to build the infraestructure associated with the zero-downtime project
+This repository contains the terraform definitions required to build an AWS ECS Project. 
 
 ## Requirements
 
